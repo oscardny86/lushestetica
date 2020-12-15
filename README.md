@@ -1,2 +1,2 @@
 # lushestetica
-This is a website for Estefania and her friend
+This is a website for Estefania and her friend...
